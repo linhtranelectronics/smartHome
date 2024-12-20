@@ -1,0 +1,16 @@
+led neopixel https://github.com/adafruit/Adafruit_NeoPixel
+blynk https://github.com/blynkkk/blynk-library
+
+
+
+
+
+blink datastream 
+    v0 led1 D5
+    v1 led2 D18
+    V3 led3 D19
+    
+    v3 co2 D13
+    v4 vibrate D14
+    v5 bouy D27
+    v6 distance D12
