@@ -20,7 +20,7 @@
 
 #define BLYNK_TEMPLATE_ID "TMPL6uH5srfF7"
 #define BLYNK_TEMPLATE_NAME "Nhà thông minh"
-#define BLYNK_AUTH_TOKEN "kF-kx5cyTXPdzrCTCQCyaQjgpVJswojf"
+#define BLYNK_AUTH_TOKEN "kF-xxxxxxxx"
 #define BLYNK_PRINT Serial
 #include <BlynkSimpleEsp32.h>
 char ssid[] = "Linhtran";
